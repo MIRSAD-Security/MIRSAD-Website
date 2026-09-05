@@ -447,8 +447,6 @@ The admin node is responsible for:
 
 MIRSAD secures and organizes all captured telemetry, metadata, cryptographic hashes (SHA-256), YARA matches, AI classifications, and quarantine statuses into a structured storage architecture. This reliable trail provides a solid foundation for incident investigation and forensic reporting.
 
-For more details on database schemas and persistence, check out the [Storage and Containment Module README](Honeypot-Edge/storage_containment/README.md).
-
 ---
 
 ## 🧪 Testing & Validation
